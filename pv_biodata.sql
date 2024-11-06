@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 06, 2024 at 07:35 AM
+-- Generation Time: Nov 06, 2024 at 08:04 AM
 -- Server version: 10.4.28-MariaDB
 -- PHP Version: 8.2.4
 
@@ -42,7 +42,7 @@ CREATE TABLE `tbl_biodata` (
 --
 
 INSERT INTO `tbl_biodata` (`nama`, `nim`, `ttl`, `jenis_kelamin`, `prodi`, `notelp`, `alamat`) VALUES
-('asaiosuiaui', '1273623', 'Bekasi, 29 November 2003', 'Laki-Laki', 'Teknik Lingkungan', '98818263', 'Jalan Minggu');
+('Alif Nur Fathlii Amarta', '312210326', 'Bekasi, 29 Agustus 2004', 'Laki - Laki', 'Teknik Informatika', '089665797275', '-6.385501352073186, 107.11190277023157');
 
 --
 -- Indexes for dumped tables
